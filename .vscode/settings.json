@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/21f838ef-15e9-4e10-a2a2-1c6d7ea03a90/resourceGroups/Devengers/providers/Microsoft.Web/sites/bullHome",
+    "appService.deploySubpath": ""
+}
